@@ -1,0 +1,3 @@
+RBZ_GLOB = {}
+
+RBZ_GLOB_DEF = RBZ_GLOB	

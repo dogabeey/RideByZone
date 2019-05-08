@@ -1,0 +1,9 @@
+## Interface: 80100
+## Title: Ride by Zone
+## Author: dogabeey
+## Notes: Allows you configure a favorite mount for each zone
+## Version: 0.02
+## SavedVariablesPerCharacter: RBZ_GLOB
+
+main.lua
+definitions.lua
